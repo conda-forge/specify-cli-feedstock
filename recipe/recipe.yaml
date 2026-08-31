@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.0"
+  version: "1.0.2"
   python_min: "3.11"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/specify-cli/specify_cli-${{ version }}.tar.gz
-  sha256: 5b08fdc43c91e6cb74c7f94552aac3e7c81ddd75cbfff39d547ec93f74bf1b3b
+  sha256: 976d4452d754777b7bd3efa35cfc3c04243ad644fcfac77ac175fc6b42eb90cb
 
 build:
   number: 0
